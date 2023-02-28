@@ -8,7 +8,7 @@
 4. Python the agent that orchestrates the web browsing downloading pictures
 5. Java
 6. Android SDK, we'll use adb exclusively so you don't need android studio
-7. [The Waydroid extension from casualsnek](https://github.com/casualsnek/waydroid_script). He has a guide as to how to get the google play store on Waydroid which is useful to install the firefox APK that we'll use to scrape facebook
+7. [The Waydroid extension from casualsnek](https://github.com/casualsnek/waydroid_script). He has a guide on how to get the google play store on Waydroid which is useful to install the firefox APK that we'll use to scrape facebook
 
 ## Linux commands:
 
@@ -33,4 +33,4 @@
 `appium -p 9000 -a 127.0.0.1 --allow-cors`
 
 ## Video of the script working:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](Waydroid.jpg)](waydroid_resized.avi)
