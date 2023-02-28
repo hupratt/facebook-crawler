@@ -33,4 +33,4 @@
 `appium -p 9000 -a 127.0.0.1 --allow-cors`
 
 ## Video of the script working:
-[![Watch the video](Waydroid.jpg)](waydroid_resized.avi)
+[![Watch the video](https://github.com/hupratt/facebook-crawler/blob/main/Waydroid.jpg)](https://github.com/hupratt/facebook-crawler/blob/main/waydroid_resized.avi)
