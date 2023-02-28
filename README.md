@@ -1,3 +1,5 @@
+![Watch the video](https://github.com/hupratt/facebook-crawler/blob/main/Waydroid.jpg)
+
 # Facebook crawler for bulk picture download
 
 ## Stack: 
@@ -33,4 +35,5 @@
 `appium -p 9000 -a 127.0.0.1 --allow-cors`
 
 ## Video of the script working:
-[![Watch the video](https://github.com/hupratt/facebook-crawler/blob/main/Waydroid.jpg)](https://github.com/hupratt/facebook-crawler/blob/main/waydroid_resized.avi)
+
+![ui-demo](https://github.com/hupratt/facebook-crawler/blob/main/waydroid.gif?raw=true)
