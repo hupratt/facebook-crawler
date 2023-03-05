@@ -1,6 +1,6 @@
-![Watch the video](https://github.com/hupratt/facebook-crawler/blob/main/Waydroid.jpg)
-
 # Facebook crawler for bulk picture download
+
+![Banner](https://github.com/hupratt/facebook-crawler/blob/main/Makita.jpg?raw=true)
 
 ## Stack: 
 
