@@ -1,6 +1,6 @@
 # Facebook crawler for bulk picture download
 
-![Banner](https://github.com/hupratt/facebook-crawler/blob/main/Makita.jpg?raw=true)
+![Banner](https://github.com/hupratt/facebook-crawler/blob/main/facebook.jpg?raw=true)
 
 ## Stack: 
 
