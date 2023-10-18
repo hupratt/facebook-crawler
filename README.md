@@ -4,7 +4,7 @@
 
 ## Stack: 
 
-1. Waydroid for android emulation. Waydroid is a LXE container (not the same as a docker container). Linux should have the display setting set to Wayland (Not X11) in order for Waydroid to work
+1. Waydroid for lineageOS emulation. Waydroid is a LXE container (not the same as a docker container). Linux should have the display setting set to Wayland (Not X11) in order for Waydroid to work
 2. Apium inspector to make it easier to find HTML tags. Having worked with Selenium scripting for years I can tell you this makes all the difference. It's open source too check it out. There's even a record option that works like macro recordings in excel
 3. Appium server acts as a JSON layer between Selenium and the Apium inspector 
 4. Python the agent that orchestrates the web browsing downloading pictures
